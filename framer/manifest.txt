@@ -98,7 +98,6 @@ node_modules/@framer/bfagan.swipe-actions/code/package.tsx
 node_modules/@framer/bfagan.swipe-actions/code/canvas.tsx
 node_modules/@framer/bfagan.swipe-actions/README.md
 design/images/zWulsaKQ197kttbvPjeMnw50.png
-design/images/zCmxMi0ujhjKwGWiCWYSDUvA.png
 design/images/yj8Q5qL5VixeRNrKth6aKdcGIY.png
 design/images/ygOTltGhshPzXy1lNSJgWs40fA.png
 design/images/y20fYt7DYfSebFgHi10R4vtuk8Q.png
@@ -120,11 +119,9 @@ design/images/n5V8lJmBAnlr3UulJAQL78GUY.png
 design/images/m5HUBKk2SwYQ0DkYGe35G2hwU.png
 design/images/ltx6QIfM60sAD59JFCagv03LBc0.png
 design/images/kURC7dTXA0WqhqX7UMS1hKmIGEk.png
-design/images/kCn1Usi1xKhIJsL6w68hcgdFKs.png
 design/images/jWVPmj2mnKIUvagzXUtWP17EVj0.png
 design/images/j9HmE7WGuJlkKZUjRg5ViAv8mU.png
 design/images/ieUTC8fKF956myR9msJHCk0j4.png
-design/images/h8srVKgs3IXIk1zChdqaP6ONGw.png
 design/images/gd4vDcfdI1aXlHTpOU2fTw4Fcs.png
 design/images/gLsfQFbPLlVg45B258QpBfYwl7s.png
 design/images/fzs3Ufb0NK440M26QDsjMT6WHNA.png
@@ -187,7 +184,6 @@ design/images/6ZP1ORhyAj99JkI6buPw88Gr4.png
 design/images/6ByO1aWugr1PYyXmNhkoQYbP90.png
 design/images/6AYgraXvFSyC4A6wy9FuwFpgakM.png
 design/images/60XFyfmNaFMBRqq4jTSl7p3FDpU.png
-design/images/5v3qBrQ5JZKhMQUEV7bim4iQ.png
 design/images/4tSeDvuKARsedDJmvTslCVKboI.png
 design/images/3qSQFRllwG945gXZDCpARdnJrOk.png
 design/images/3Y3vauhwGNRQC1yGIvZlwpZBcqA.png
@@ -196,7 +192,6 @@ design/images/1Fyjw7l5QtK8pEMwDa6rKfR1xmw.png
 design/images/0fjlELJ1fGXrRMASNpIYCaXd64.png
 design/images/0fBjVoeaB1ALtpe7c7pBFx7Gio.png
 design/images/0M9VY0WtLBDQfrwHpxvi805pJ4.png
-design/images/0LbBOxmorMNxGnqtzUxi2fuHRY.png
 build/vendors.js
 build/framer.js
 index.html
